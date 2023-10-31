@@ -1,7 +1,3 @@
-# cloudwatch
-Steps to Setup CloudWatch to show container Insights
-
-
 Step -1 
 
 Attach CloudWatchAgentServerPolicy Policy to the worker node group in ec2 instance tab
